@@ -35,4 +35,8 @@
         target: "#sideNav",
     });
 })(jQuery); // End of use strict
-
+// STARTING PWA 
+if ("serviceWorker" in navigator) {
+    // register service worker
+    navigator.serviceWorker.register("service-worker.js");
+  }
