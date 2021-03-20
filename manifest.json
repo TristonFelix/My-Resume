@@ -1,21 +1,21 @@
 {
-    "name": "Resume by Tharun",
-    "short_name": "Triston F - Resume",
-    "start_url": "index.html",
-    "scope": "./",
-    "icons": [
-      {
-        "src": "/interxet.png",
-        "sizes": "192x192",
-        "type": "image/png"
-      },
-      {
-        "src": "/interxet.png",
-        "sizes": "512x512",
-        "type": "image/png"
-      }
-    ],
-    "theme_color": "#1698D4",
-    "background_color": "#333",
-    "display": "standalone"
-  }
+  "name": "Triston F - Resume",
+  "short_name": "Triston F - Resume",
+  "start_url": "index.html",
+  "scope": "./",
+  "icons": [
+    {
+      "src": "/interxet.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/interxet.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#1698D4",
+  "background_color": "#333",
+  "display": "standalone"
+}
